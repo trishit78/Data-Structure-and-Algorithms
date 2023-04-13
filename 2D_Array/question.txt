@@ -1,0 +1,10 @@
+lecture 23{
+    linear search [VS Code]
+    Sum Of 2d Array [VS Code]
+    Largest Row Sum[VS Code]
+    Print Like A Wave (codestudio/done)  
+    54. Spiral Matrix (leetcode)   
+    48. Rotate Image  (leetcode)   / not done
+    74. Search a 2D Matrix (leetcode/done)   /  yet to submit
+    240. Search a 2D Matrix II     (leetcode/done)   /  yet to submit
+}

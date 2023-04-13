@@ -1,0 +1,10 @@
+lecture 24{
+    segment sieve[VS Code/done]
+    gcd[VS Code/done]
+    prime factorization using sieve[VS Code]   not working
+    fast exponentiation[VS Code/done]
+    Modular Exponentiation [ codestudio/done]   
+    204. Count Primes [leetcode/done]  
+    
+
+}

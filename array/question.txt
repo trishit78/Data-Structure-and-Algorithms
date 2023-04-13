@@ -1,0 +1,78 @@
+
+max and min of an array
+sum of elements of an array
+swap alternate values of an array
+
+
+
+
+
+lecture 7{
+    Reverse Integer(leetcode/done)
+    Complement of Base 10 Integer(leetcode/done)
+    Power of Two(leetcode/done)
+}
+lecture 8{
+    switch cases problems
+}
+lecture 9{
+    linear search (VS Code)
+    reverse array (VS Code)
+}
+lecture 10{
+    Find Unique (codestudio/done)
+    Duplicate In Array  (codestudio/done)
+    Intersection Of Two Sorted Arrays  (codestudio/done)  
+    Pair Sum   (codestudio)   / to ask for help
+    3Sum  (codestudio) /  to ask for help
+    Sort 0 1 2    (codestudio)   / to ask for help (TLE)
+}
+lecture 11{
+    time and space complexity
+}
+lecture 12{
+    Binary Search [VS Code]   /  not working in some cases
+}
+Lecture 13 {
+    First and Last Occurence  /First and Last Position of an Element In Sorted Array    (codestudio/ done) / not done in [VS Code]
+    Total number of occurence x [VS code]
+    Peak Index in a Mountain Array(leetcode/done)
+}
+Lecture 14{
+    find pivot in an array (to be checked)[VS code]
+    Search In Rotated Sorted Array(codestudio/done)
+    Square Root by binary search(codestudio/done)   not working
+}
+Lecture 15 {
+    Yet to solve
+}
+lecture 16{
+    Selection Sort(codestudio)/  solved as per the code /answer not matching                                             yet to solve
+}
+lecture 17{
+    Bubble Sort(codestudio/done) 
+}
+lecture 18{
+    Insertion Sort (codestudio/done) 
+}
+lecture 19{
+    stl
+}
+lecture 20{
+    Reverse The Array (codestudio/done)
+     Move Zeroes(leetcode/done)
+     Merge Sorted Array(leetcode)  /yet to solve
+}
+lecture 21{
+     Rotate Array(leetcode/done)  
+     Check if Array Is Sorted and Rotated(leetcode/done)
+     Sum Of Two Arrays(codestudio/done)
+}
+
+
+ 
+
+
+
+
+

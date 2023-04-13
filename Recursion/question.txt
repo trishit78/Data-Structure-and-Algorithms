@@ -1,0 +1,45 @@
+lecture 31{
+    factorial [VS Code]
+    count [VS Code]
+    power of 2 [VS Code]
+}
+
+lecture 32{
+    509. Fibonacci Number (leetcode/done)
+    Count Ways To Reach The N-th Stairs (codestudio/done)  not completed because test cases are for dp
+    Say Digits [VS Code]
+}
+
+lecture 33{
+    Is Sorted [VS Code]
+    Binary Search [VS Code]
+    Binary Search (codestudio/done)
+    Get Sum [VS Code]
+    Linear Search [VS Code]
+}
+lecture 34{
+    Reverse String [VS Code]
+    Reverse the String (codestudio)  
+    Check Palindrome [VS Code]
+    power of 2 [VS Code]
+    Bubble Sort [VS Code]
+    Exponent [VS Code]
+}
+
+lecture 35{
+    Merge Sort [VS Code]  (codestudio/done)
+}
+lecture 36{
+    Quick Sort [VS Code]  (codestudio) not working in codestudio
+}
+lecture 37{
+    78. Subsets  (leetcode/done)
+    Subsequences of String (codestudio)  
+}
+lecture 38{
+    17. Letter Combinations of a Phone Number (leetcode/done)
+}
+lecture 39{
+    46. Permutations (leetcode) 
+}
+

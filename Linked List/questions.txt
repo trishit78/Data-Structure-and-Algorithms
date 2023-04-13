@@ -1,0 +1,29 @@
+questions
+1. Reverse Linked List ( https://bit.ly/3H1lKov )
+2. find Middle of a Linked List ( https://bit.ly/3tRF3ga )
+3. Reverse List In K Groups (https://bit.ly/3r1rCIP)
+4. is circular or not ()  [VS Code]
+5. detect if loop is present or not [VS Code]  (Floyd Algo)
+6. Starting of Loop [VS Code]
+7. Remove Loop  [VS Code] // in file StartingOfLoop.cpp
+8. Unique sorted list ( https://bit.ly/3rjMQC5  )
+9. Sort 0,1,2 LL [VS Code] (https://bit.ly/3s3fAOu)
+10. merge ll     (https://bit.ly/3rfFdfV)
+11.Check Palindrome  [VS Code] (https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
+
+12. Add 2 Numbers rep. by Linked List  [VS Code]  (https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
+
+13.Clone a linked list with next and random pointer [VS Code] (https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)
+
+14.Merge Sort Linked List: (https://bit.ly/3GsXWsz)  (not done)
+15.Flatten a Linked List: (https://bit.ly/3GoASv6)    (not done)
+
+
+
+
+
+
+
+
+
+Detect and Remove Loop (https://www.codingninjas.com/codestudio/problems/interview-shuriken-42-detect-and-remove-loop_241049?leftPanelTab=0%3Fsource%3Dyoutube&campaign=YouTube_codestudio_lovebabbar28thjan&utm_source=youtube&utm_medium=affiliate&utm_campaign=YouTube_codestudio_lovebabbar28thjan)
